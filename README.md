@@ -6,6 +6,12 @@ Plateforme de mise en relation entre freelances et entreprises permettant la ges
 
 ![Capture d'écran de l'application FreeHunt](./docs/freehunt.png)
 
+### Les developpeurs
+Cheickla
+Ryan Malonzo
+Fayssal Mechmeche
+Fred
+
 ## Installation et configuration locale
 
 ### Prérequis
